@@ -43,11 +43,11 @@ yang akan di tampilkan pada listbox juga.
 ```c#
  private void generateListVoucher()
         {
-            Model.Voucher seninspesial = new Model.Voucher(title: "Promo Senin Spesial 25%", discInPercent: 25);
-            Model.Voucher penggunabaru = new Model.Voucher(title: "Promo Pengguna Baru 50%", discInPercent: 50);
+            Model.Voucher awaltahun = new Model.Voucher(title: "Promo Awal Tahun 25%", discInPercent: 25);
+            Model.Voucher penggunabaru = new Model.Voucher(title: "Promo Pengguna Baru 30%,hingga 30rb", discInPercent: 30);
             Model.Voucher promoNatal = new Model.Voucher(title: "Promo Natal Potongan 10000", disc: 10000);
 
-            voucherController.addItem(seninspesial);
+            voucherController.addItem(awaltahun);
             voucherController.addItem(penggunabaru);
             voucherController.addItem(promoNatal);
 
