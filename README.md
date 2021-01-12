@@ -1,4 +1,7 @@
-# Study Kasus Pemprogaman
+# Dipa August Almadima
+# 19.11.2806
+
+# Studi Kasus Pemprogaman
 Aplikasi ini bertujuan seperti simulasi pembelian makanan dan minuman dengan menggunakan promo/voucher.
 
 # Scope and Functionalities
