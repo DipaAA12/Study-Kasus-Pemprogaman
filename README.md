@@ -2,7 +2,7 @@
 # 19.11.2806
 
 # Studi Kasus Pemprogaman
-Aplikasi ini bertujuan seperti simulasi pembelian makanan dan minuman dengan menggunakan promo/voucher.
+Aplikasi ini mensimulasi pembelian makanan dan minuman dengan menggunakan promo/voucher.
 
 # Scope and Functionalities
 - User dapat melihat daftar makanan dan minuman yang tersedia
